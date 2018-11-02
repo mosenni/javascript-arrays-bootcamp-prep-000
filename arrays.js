@@ -22,3 +22,19 @@ function destructivelyAddElementToEndOfArray(array, element){
   array.push(element)
   return array
 }
+
+function destructivelyRemoveElementFromBeginningOfArray(){
+
+}
+
+function removeElementFromBeginningOfArray(){
+
+}
+
+function destructivelyRemoveElementFromEndOfArray(){
+
+}
+
+function removeElementFromEndOfArray(){
+
+}
